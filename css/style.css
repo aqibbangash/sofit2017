@@ -74,6 +74,25 @@ ul, ol {
 .clearfix {
 	display: block;
 }
+
+.logo-sofit {
+    max-width: 200px;
+    max-height: 200px;
+}
+.logo-sofit-text {
+    max-width: 276px;
+    max-height: 80px;
+}
+
+.wondersLine{
+    font-size: 27px;
+    margin-top: -95px!important;
+    font-weight: 800;
+    width: 380px;
+    margin: auto;
+    display: flex !important;
+}
+
 #preloader {
 	position: fixed;
 	top: 0;
