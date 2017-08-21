@@ -1,0 +1,21 @@
+{
+  "name": "sofit",
+  "authors": [
+    "Aqib <xs_denied@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "granim": "^1.0.31"
+  }
+}
